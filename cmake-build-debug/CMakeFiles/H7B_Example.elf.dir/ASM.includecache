@@ -1,0 +1,10 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/SelfProject/19_STM32-LetterShell/2_Firmware/STM32-LetterShell/Core/Startup/startup_stm32h7b0vbtx.s
+
